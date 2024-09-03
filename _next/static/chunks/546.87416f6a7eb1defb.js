@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[546],{7546:function(e,t,n){n.r(t),n.d(t,{default:function(){return u}});var r=n(7437);function u(){return(0,r.jsx)("div",{className:"w-full py-5 text-center font-mono text-[10px] text-primary md:text-sm",children:"Build by Bolos Paul. All right reserved."})}n(2265)}}]);
